@@ -1,19 +1,25 @@
-# Olá, mundo! 👋
+# Olá, mundo! Eu sou Ilam Simons. 👋
 
-Meu nome é Ilam Simons e sou um entusiasta da programação e do desenvolvimento web.
+Sou um desenvolvedor web em treinamento, sempre ansioso para aprender mais e melhorar minhas habilidades. Atualmente, estou focado no aprendizado e aplicação de HTML, CSS e JavaScript.
 
-## 📚 Sobre Mim
+Acredito fortemente no compartilhamento de conhecimento e na colaboração, por isso criei o canal "Hello, World!" no YouTube, onde compartilho minha jornada de aprendizado.
 
-- 🎓 Estou aprendendo: **JavaScript, HTML, CSS, Python**
-- 🌱 Meus interesses incluem: **Desenvolvimento Web**
-- 💬 Pergunte-me sobre: **Programação, Desenvolvimento Web**
+Aqui no GitHub, você encontrará os projetos nos quais estou trabalhando. Sinta-se à vontade para explorar, dar feedback ou contribuir para os projetos.
+
+## 🛠️ Tecnologias e ferramentas:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ilam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ilam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ilam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+  
 ## 📫 Como me encontrar:
 
-- Gmail: <a href="mailto:contactilamsimons@gmail.com" target="_blank">contactilamsimons@gmail.com</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/ilam-simons-534159277/" target="_blank">Ilam Simons</a>
-- Instagram: <a href="https://www.instagram.com/ilamsimons/?next=%2F" target="_blank">Ilam Simons</a>
-- YouTube: <a href="https://www.youtube.com/channel/UCrK1yFa88-cS2AiGVItqouw" target="_blank">Ilam Simons</a>
+<div> 
+  <a href="https://www.youtube.com/channel/UCrK1yFa88-cS2AiGVItqouw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ilamsimons/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:contactilamsimons@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ilam-simons-534159277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-## ⚡ Estatísticas do GitHub
-
-![Ilam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilam_Simons&show_icons=true&theme=radical)
