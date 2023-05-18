@@ -6,6 +6,10 @@ Acredito fortemente no compartilhamento de conhecimento e na colaboração, por 
 
 Aqui no GitHub, você encontrará os projetos nos quais estou trabalhando. Sinta-se à vontade para explorar, dar feedback ou contribuir para os projetos.
 
+<table>
+  <tr>
+    <td valign="top">
+
 ## 🛠️ Tecnologias e ferramentas:
 
 <div style="display: inline_block"><br>
@@ -13,7 +17,7 @@ Aqui no GitHub, você encontrará os projetos nos quais estou trabalhando. Sinta
   <img align="center" alt="Ilam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ilam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
-  
+
 ## 📫 Como me encontrar:
 
 <div> 
@@ -22,4 +26,9 @@ Aqui no GitHub, você encontrará os projetos nos quais estou trabalhando. Sinta
   <a href="mailto:contactilamsimons@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ilam-simons-534159277/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
+    </td>
+    <td valign="top">
+      <img src="https://cdn.discordapp.com/attachments/1107832180882804816/1108671896003805204/giphy.gif" alt="Gif">
+    </td>
+  </tr>
+</table>
