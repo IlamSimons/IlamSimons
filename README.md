@@ -19,7 +19,6 @@ Aqui no GitHub, você encontrará os projetos nos quais estou trabalhando. Sinta
 </div>
 
 ## 📫 Como me encontrar:
-
 <div> 
   <a href="https://www.youtube.com/channel/UCrK1yFa88-cS2AiGVItqouw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ilamsimons/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -28,7 +27,7 @@ Aqui no GitHub, você encontrará os projetos nos quais estou trabalhando. Sinta
 </div>
     </td>
     <td valign="top">
-      <img src="https://cdn.discordapp.com/attachments/1107832180882804816/1108671896003805204/giphy.gif" alt="Gif">
+      <img src="https://cdn.discordapp.com/attachments/1051598072473473074/1109199648800915506/giphy.gif">
     </td>
   </tr>
 </table>
