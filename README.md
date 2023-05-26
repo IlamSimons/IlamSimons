@@ -2,8 +2,6 @@
 
 Sou um desenvolvedor web em treinamento, sempre ansioso para aprender mais e melhorar minhas habilidades. Atualmente, estou focado no aprendizado e aplicação de HTML, CSS e JavaScript.
 
-Acredito fortemente no compartilhamento de conhecimento e na colaboração, por isso criei o canal "Hello, World!" no YouTube, onde compartilho minha jornada de aprendizado.
-
 Aqui no GitHub, você encontrará os projetos nos quais estou trabalhando. Sinta-se à vontade para explorar, dar feedback ou contribuir para os projetos.
 
 <table>
