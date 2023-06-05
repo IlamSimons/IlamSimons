@@ -1,14 +1,14 @@
-# Olá, mundo! Eu sou Ilam Simons. 👋
+# Hello, world! I'm Ilam Simons. 👋
 
-Sou um desenvolvedor web em treinamento, sempre ansioso para aprender mais e melhorar minhas habilidades. Atualmente, estou focado no aprendizado e aplicação de HTML, CSS e JavaScript.
+I'm a web developer in training, always eager to learn more and improve my skills. I'm currently focused on learning and applying HTML, CSS, and JavaScript.
 
-Aqui no GitHub, você encontrará os projetos nos quais estou trabalhando. Sinta-se à vontade para explorar, dar feedback ou contribuir para os projetos.
+Here on GitHub, you'll find the projects I'm working on. Feel free to explore, provide feedback, or contribute to the projects.
 
 <table>
   <tr>
     <td valign="top">
 
-## 🛠️ Tecnologias e ferramentas:
+## 🛠️ Technologies and Tools:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ilam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,7 +16,7 @@ Aqui no GitHub, você encontrará os projetos nos quais estou trabalhando. Sinta
   <img align="center" alt="Ilam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-## 📫 Como me encontrar:
+## 📫 How to reach me:
 <div> 
   <a href="https://www.youtube.com/channel/UCrK1yFa88-cS2AiGVItqouw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ilamsimons/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,3 +29,4 @@ Aqui no GitHub, você encontrará os projetos nos quais estou trabalhando. Sinta
     </td>
   </tr>
 </table>
+****
