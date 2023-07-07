@@ -1,22 +1,22 @@
-# Hello, world! I'm Ilam Simons. 👋
+# Olá, mundo! Eu sou Ilam Simons. 👋
 
-I'm a web developer in training, always eager to learn more and improve my skills. I'm currently focused on learning and applying HTML, CSS, and JavaScript.
+Sou um desenvolvedor Android, sempre ansioso para aprender mais e aprimorar minhas habilidades. No momento, estou focado em aprender e aplicar Android Studio, Java e Kotlin.
 
-Here on GitHub, you'll find the projects I'm working on. Feel free to explore, provide feedback, or contribute to the projects.
+Aqui no GitHub, você encontrará os projetos nos quais estou trabalhando. Sinta-se à vontade para explorar, fornecer feedback ou contribuir para os projetos.
 
 <table>
   <tr>
     <td valign="top">
 
-## 🛠️ Technologies and Tools:
+## 🛠️ Tecnologias e Ferramentas:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ilam-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ilam-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ilam-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ilam-Android-Studio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg">
+  <img align="center" alt="Ilam-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Ilam-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
 
-## 📫 How to reach me:
+## 📫 Como me encontrar:
 <div> 
   <a href="https://www.youtube.com/channel/UCrK1yFa88-cS2AiGVItqouw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/ilamsimons/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -29,4 +29,4 @@ Here on GitHub, you'll find the projects I'm working on. Feel free to explore, p
     </td>
   </tr>
 </table>
-****
+
